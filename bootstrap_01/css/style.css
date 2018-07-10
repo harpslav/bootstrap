@@ -1,0 +1,18 @@
+.container-example {
+    height: 150px;
+    background-color: blueviolet;
+}
+
+.container-fluid-example{
+    height: 150px;
+    background-color: red;
+}
+
+.item {
+    height: 300px;
+    background-color: aqua;
+}
+
+.item:nth-child(2n) {
+    background-color: #ccc;
+}
